@@ -1,7 +1,6 @@
 # Change these first
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
 sites:
 - name: Alliance Computers
 url: https://alliancecomp.com
@@ -177,6 +176,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
