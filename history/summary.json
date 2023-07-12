@@ -239,17 +239,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 3432,
     "timeDay": 1044,
     "timeWeek": 3432,
     "timeMonth": 3432,
     "timeYear": 3432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Buckland Sales",
@@ -646,7 +648,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-12": 110,
+      "2023-07-12": 884,
       "2023-07-11": 1440,
       "2023-07-10": 417
     }
@@ -746,18 +748,20 @@
     "url": "https://indiancreekcommunity.org",
     "icon": "https://icons.duckduckgo.com/ip3/indiancreekcommunity.org.ico",
     "slug": "indian-creek",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 6526,
     "timeDay": 5397,
     "timeWeek": 6526,
     "timeMonth": 6526,
     "timeYear": 6526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 8
+    }
   },
   {
     "name": "Jaz Design Co",
@@ -776,7 +780,7 @@
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-07-12": 110,
+      "2023-07-12": 884,
       "2023-07-11": 1440,
       "2023-07-10": 417
     }
@@ -984,18 +988,20 @@
     "url": "https://reachformore.fit",
     "icon": "https://icons.duckduckgo.com/ip3/reachformore.fit.ico",
     "slug": "reach-for-more",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 6128,
     "timeDay": 3989,
     "timeWeek": 6128,
     "timeMonth": 6128,
     "timeYear": 6128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 7
+    }
   },
   {
     "name": "Redd's Smokehouse BBQ",
@@ -1164,18 +1170,20 @@
     "url": "https://stpaulsandhill.com",
     "icon": "https://icons.duckduckgo.com/ip3/stpaulsandhill.com.ico",
     "slug": "st-paul-s-evangelical-lutheran-church",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 8247,
     "timeDay": 7416,
     "timeWeek": 8247,
     "timeMonth": 8247,
     "timeYear": 8247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 4
+    }
   },
   {
     "name": "Szeles and Associates",
@@ -1230,7 +1238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-12": 110,
+      "2023-07-12": 885,
       "2023-07-11": 1440,
       "2023-07-10": 416
     }
@@ -1294,18 +1302,20 @@
     "url": "https://v3fitnesspro.com",
     "icon": "https://icons.duckduckgo.com/ip3/v3fitnesspro.com.ico",
     "slug": "v3-fitness-pro",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 4876,
     "timeDay": 3920,
     "timeWeek": 4876,
     "timeMonth": 4876,
     "timeYear": 4876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 2
+    }
   },
   {
     "name": "Wert Book Binding",
@@ -1402,17 +1412,19 @@
     "url": "https://yorklynconstruction.com",
     "icon": "https://icons.duckduckgo.com/ip3/yorklynconstruction.com.ico",
     "slug": "yorklyn-construction",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 7042,
     "timeDay": 5342,
     "timeWeek": 7042,
     "timeMonth": 7042,
     "timeYear": 7042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   }
 ]
