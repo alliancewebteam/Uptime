@@ -76,19 +76,19 @@
     "url": "https://andersonpropainting.com",
     "icon": "https://icons.duckduckgo.com/ip3/andersonpropainting.com.ico",
     "slug": "anderson-pro-painting",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 4359,
-    "timeDay": 6828,
-    "timeWeek": 4359,
-    "timeMonth": 4359,
-    "timeYear": 4359,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 4427,
+    "timeDay": 6141,
+    "timeWeek": 4427,
+    "timeMonth": 4427,
+    "timeYear": 4427,
     "dailyMinutesDown": {
-      "2023-07-13": 2
+      "2023-07-13": 16
     }
   },
   {
@@ -241,18 +241,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
     "status": "up",
-    "uptime": "60.12%",
+    "uptime": "59.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.12%",
-    "uptimeMonth": "60.12%",
-    "uptimeYear": "60.12%",
+    "uptimeWeek": "59.91%",
+    "uptimeMonth": "59.91%",
+    "uptimeYear": "59.91%",
     "time": 3524,
     "timeDay": 3801,
     "timeWeek": 3524,
     "timeMonth": 3524,
     "timeYear": 3524,
     "dailyMinutesDown": {
-      "2023-07-13": 1261,
+      "2023-07-13": 1278,
       "2023-07-12": 557
     }
   },
@@ -651,7 +651,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 1261,
+      "2023-07-13": 1278,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 417
@@ -784,7 +784,7 @@
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-07-13": 1262,
+      "2023-07-13": 1278,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 417
@@ -1241,7 +1241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 1262,
+      "2023-07-13": 1278,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 416
