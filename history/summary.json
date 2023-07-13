@@ -239,18 +239,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
     "status": "up",
-    "uptime": "80.37%",
-    "uptimeDay": "53.52%",
-    "uptimeWeek": "80.37%",
-    "uptimeMonth": "80.37%",
-    "uptimeYear": "80.37%",
+    "uptime": "72.25%",
+    "uptimeDay": "26.89%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "72.25%",
+    "uptimeYear": "72.25%",
     "time": 3524,
     "timeDay": 3801,
     "timeWeek": 3524,
     "timeMonth": 3524,
     "timeYear": 3524,
     "dailyMinutesDown": {
-      "2023-07-13": 112,
+      "2023-07-13": 496,
       "2023-07-12": 557
     }
   },
@@ -649,7 +649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 112,
+      "2023-07-13": 496,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 417
@@ -751,11 +751,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/indiancreekcommunity.org.ico",
     "slug": "indian-creek",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.60%",
     "uptimeDay": "98.95%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 7511,
     "timeDay": 8989,
     "timeWeek": 7511,
@@ -782,7 +782,7 @@
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-07-13": 112,
+      "2023-07-13": 496,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 417
@@ -793,18 +793,20 @@
     "url": "https://jbbuyrite.com",
     "icon": "https://icons.duckduckgo.com/ip3/jbbuyrite.com.ico",
     "slug": "jb-buy-rite",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 265,
     "timeDay": 296,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-13": 1
+    }
   },
   {
     "name": "John Jewett",
@@ -1237,7 +1239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 113,
+      "2023-07-13": 496,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 416
