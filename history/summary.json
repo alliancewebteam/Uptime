@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.89%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 4155,
     "timeDay": 25117,
     "timeWeek": 5574,
     "timeMonth": 4155,
     "timeYear": 4155,
     "dailyMinutesDown": {
-      "2023-08-09": 39
+      "2023-08-09": 46
     }
   },
   {
@@ -219,18 +219,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/brewvino.com.ico",
     "slug": "brewvino-hand-crafted-pizza",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 3919,
     "timeDay": 26508,
     "timeWeek": 5700,
     "timeMonth": 3919,
     "timeYear": 3919,
     "dailyMinutesDown": {
-      "2023-08-09": 38
+      "2023-08-09": 45
     }
   },
   {
@@ -268,7 +268,7 @@
     "timeMonth": 3611,
     "timeYear": 3611,
     "dailyMinutesDown": {
-      "2023-08-09": 559,
+      "2023-08-09": 566,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
@@ -708,7 +708,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-09": 560,
+      "2023-08-09": 567,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
@@ -840,19 +840,19 @@
     "url": "https://indiancreekcommunity.org",
     "icon": "https://icons.duckduckgo.com/ip3/indiancreekcommunity.org.ico",
     "slug": "indian-creek",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "75.22%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
-    "time": 6669,
-    "timeDay": 13260,
-    "timeWeek": 8401,
-    "timeMonth": 6669,
-    "timeYear": 6669,
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "74.85%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 6686,
+    "timeDay": 12263,
+    "timeWeek": 8307,
+    "timeMonth": 6686,
+    "timeYear": 6686,
     "dailyMinutesDown": {
-      "2023-08-09": 19,
+      "2023-08-09": 24,
       "2023-08-08": 338,
       "2023-07-12": 15
     }
@@ -1347,7 +1347,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-09": 560,
+      "2023-08-09": 567,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
