@@ -4,6 +4,8 @@ repo: Uptime # The name of this repository
 sites:
   - name: "Alliance Computers"
     url: https://alliancecomp.com
+  - name: "Allegehnies Marketplace"
+    url: https://allegheniesmarketplace.com
   - name: "Access Bus & Van"
     url: https://accessbusandvan.net
   - name: "Allied Group PA"
