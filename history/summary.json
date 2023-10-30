@@ -1464,19 +1464,19 @@
     "url": "https://strubeinc.net",
     "icon": "https://icons.duckduckgo.com/ip3/strubeinc.net.ico",
     "slug": "strube-inc",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "90.94%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.92%",
-    "time": 1513,
-    "timeDay": 5330,
-    "timeWeek": 2866,
-    "timeMonth": 1738,
-    "timeYear": 1513,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.91%",
+    "time": 1530,
+    "timeDay": 4888,
+    "timeWeek": 2935,
+    "timeMonth": 1792,
+    "timeYear": 1530,
     "dailyMinutesDown": {
-      "2023-10-30": 130
+      "2023-10-30": 142
     }
   },
   {
@@ -1561,7 +1561,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 1101,
+      "2023-10-30": 1114,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
