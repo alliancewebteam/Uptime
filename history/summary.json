@@ -26,10 +26,10 @@
     "url": "https://allegheniesmarketplace.com",
     "icon": "https://icons.duckduckgo.com/ip3/allegheniesmarketplace.com.ico",
     "slug": "allegehnies-marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "90.11%",
-    "uptimeWeek": "98.59%",
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
     "time": 1265,
@@ -38,7 +38,7 @@
     "timeMonth": 1265,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2023-11-08": 142
+      "2023-11-08": 144
     }
   },
   {
@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
     "status": "up",
-    "uptime": "91.16%",
+    "uptime": "91.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.44%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "91.16%",
+    "uptimeYear": "91.17%",
     "time": 4182,
     "timeDay": 3676,
     "timeWeek": 4563,
@@ -1577,7 +1577,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-08": 461,
+      "2023-11-08": 472,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
