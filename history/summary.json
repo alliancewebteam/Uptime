@@ -26,10 +26,10 @@
     "url": "https://allegheniesmarketplace.com",
     "icon": "https://icons.duckduckgo.com/ip3/allegheniesmarketplace.com.ico",
     "slug": "allegehnies-marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "86.28%",
-    "uptimeWeek": "98.04%",
+    "uptimeDay": "86.14%",
+    "uptimeWeek": "98.02%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
     "time": 1194,
@@ -38,7 +38,7 @@
     "timeMonth": 1194,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2023-11-08": 197
+      "2023-11-08": 199
     }
   },
   {
@@ -802,11 +802,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/henryskeyandlockservice.com.ico",
     "slug": "henry-s-lock-and-key-service",
     "status": "up",
-    "uptime": "35.13%",
+    "uptime": "35.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.54%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "35.13%",
+    "uptimeYear": "35.14%",
     "time": 4030,
     "timeDay": 3429,
     "timeWeek": 3887,
@@ -1577,7 +1577,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-08": 537,
+      "2023-11-08": 566,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
