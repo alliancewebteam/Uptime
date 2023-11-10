@@ -555,19 +555,19 @@
     "url": "https://downeastfab.com",
     "icon": "https://icons.duckduckgo.com/ip3/downeastfab.com.ico",
     "slug": "down-east-granite",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 1003,
-    "timeWeek": 821,
-    "timeMonth": 613,
-    "timeYear": 585,
+    "time": 601,
+    "timeDay": 1804,
+    "timeWeek": 1044,
+    "timeMonth": 673,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2023-11-10": 2
+      "2023-11-10": 9
     }
   },
   {
@@ -1579,7 +1579,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 1127,
+      "2023-11-10": 1136,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
