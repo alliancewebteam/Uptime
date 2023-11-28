@@ -18,8 +18,6 @@ sites:
     url: https://autismyork.org
   - name: "A Plus Mortgage Solutions"
     url: https://aplusmortgagesolutions.com
-  - name: "BHD - The Second Half"
-    url: https://bhdsecondhalf.com
   - name: "Boone Graphics LLC"
     url: https://boonegraphicsllc.com
   - name: "Boyo Transportation"
@@ -73,7 +71,7 @@ sites:
   - name: "Habitat for Humanity of the Greater Harrisburg Area - ReStore"
     url: https://harrisburgrestore.org
   - name: "Handyworx"
-    url: https://thehandyworx.com
+    url: https://www.thehandyworx.com
   - name: "Henry's Lock & Key Service"
     url: https://henryskeyandlockservice.com/
   - name: "Hershey Real Estate Group"
@@ -94,6 +92,8 @@ sites:
     url: https://jbbuyrite.com
   - name: "John Jewett"
     url: https://jhowardcahill.com
+  - name: "Juniper Environmental"
+    url: https://juniperenviro.com
   - name: "King's View Acres"
     url: https://kingsviewacres.com
   - name: "Machining America"
@@ -102,6 +102,8 @@ sites:
     url: https://mariamemmi.com
   - name: "Matterhorn Bar & Restaurant"
     url: https://matterhornbar.com
+  - name: "Melissa Mueller"
+    url: https://smartloanadvisor.com
   - name: "Miller & Son Electro-Plating"
     url: https://millerplatingnj.com
   - name: "Moyles Law Firm"
