@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/allegheniesmarketplace.com.ico",
     "slug": "allegehnies-marketplace",
     "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "34.43%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "98.43%",
+    "uptime": "98.42%",
+    "uptimeDay": "33.83%",
+    "uptimeWeek": "90.55%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "98.42%",
     "time": 1247,
     "timeDay": 1687,
     "timeWeek": 1670,
     "timeMonth": 1623,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2023-12-10": 944,
+      "2023-12-10": 953,
       "2023-11-08": 407
     }
   },
@@ -298,9 +298,9 @@
     "slug": "bricks-and-sticks-title-agency",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "34.55%",
-    "uptimeWeek": "90.65%",
-    "uptimeMonth": "97.85%",
+    "uptimeDay": "33.97%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "99.51%",
     "time": 717,
     "timeDay": 1261,
@@ -308,7 +308,7 @@
     "timeMonth": 1087,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-12-10": 942,
+      "2023-12-10": 951,
       "2023-08-14": 128
     }
   },
@@ -443,18 +443,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cilopportunities.org.ico",
     "slug": "center-for-independent-living",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "34.60%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.48%",
+    "uptimeDay": "34.01%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "99.48%",
     "time": 576,
     "timeDay": 392,
     "timeWeek": 421,
     "timeMonth": 382,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-12-10": 942,
+      "2023-12-10": 950,
       "2023-09-22": 31,
       "2023-09-19": 17,
       "2023-09-15": 43,
@@ -527,9 +527,9 @@
     "slug": "db-360-soft-wash",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "34.71%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "97.85%",
+    "uptimeDay": "34.13%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "99.57%",
     "time": 490,
     "timeDay": 581,
@@ -537,7 +537,7 @@
     "timeMonth": 665,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2023-12-10": 940
+      "2023-12-10": 949
     }
   },
   {
@@ -547,9 +547,9 @@
     "slug": "down-east-granite",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "34.87%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "34.29%",
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.57%",
     "time": 763,
     "timeDay": 2450,
@@ -557,7 +557,7 @@
     "timeMonth": 1552,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2023-12-10": 938
+      "2023-12-10": 946
     }
   },
   {
@@ -567,9 +567,9 @@
     "slug": "dream-home-realty",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "34.93%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "34.34%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.57%",
     "time": 121,
     "timeDay": 142,
@@ -577,7 +577,7 @@
     "timeMonth": 108,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-12-10": 937
+      "2023-12-10": 945
     }
   },
   {
@@ -777,19 +777,19 @@
     "url": "https://www.thehandyworx.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehandyworx.com.ico",
     "slug": "handyworx",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "91.50%",
-    "uptimeWeek": "92.43%",
-    "uptimeMonth": "96.01%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "92.36%",
+    "uptimeMonth": "95.99%",
     "uptimeYear": "99.15%",
-    "time": 616,
-    "timeDay": 196,
-    "timeWeek": 190,
-    "timeMonth": 462,
-    "timeYear": 616,
+    "time": 614,
+    "timeDay": 178,
+    "timeWeek": 189,
+    "timeMonth": 460,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-12-10": 122,
+      "2023-12-10": 128,
       "2023-12-09": 37,
       "2023-12-08": 211,
       "2023-12-07": 105,
@@ -1183,8 +1183,8 @@
     "status": "down",
     "uptime": "98.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.24%",
-    "uptimeMonth": "93.15%",
+    "uptimeWeek": "70.16%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "98.64%",
     "time": 590,
     "timeDay": 0,
@@ -1192,7 +1192,7 @@
     "timeMonth": 843,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-12-10": 1111,
+      "2023-12-10": 1120,
       "2023-12-09": 1440,
       "2023-12-08": 449
     }
@@ -1632,7 +1632,7 @@
     "uptime": "12.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.96%",
+    "uptimeMonth": "63.97%",
     "uptimeYear": "12.44%",
     "time": 222,
     "timeDay": 191,
