@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/allegheniesmarketplace.com.ico",
     "slug": "allegehnies-marketplace",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "72.14%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.05%",
+    "uptimeDay": "71.51%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.05%",
     "time": 1247,
     "timeDay": 1687,
     "timeWeek": 1670,
     "timeMonth": 1623,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2023-12-10": 401,
+      "2023-12-10": 410,
       "2023-11-08": 407
     }
   },
@@ -298,9 +298,9 @@
     "slug": "bricks-and-sticks-title-agency",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "72.27%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "71.64%",
+    "uptimeWeek": "95.95%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.76%",
     "time": 717,
     "timeDay": 1261,
@@ -308,7 +308,7 @@
     "timeMonth": 1087,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-12-10": 399,
+      "2023-12-10": 408,
       "2023-08-14": 128
     }
   },
@@ -444,9 +444,9 @@
     "slug": "center-for-independent-living",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "72.32%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "71.69%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.73%",
     "time": 576,
     "timeDay": 392,
@@ -454,7 +454,7 @@
     "timeMonth": 382,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-12-10": 399,
+      "2023-12-10": 408,
       "2023-09-22": 31,
       "2023-09-19": 17,
       "2023-09-15": 43,
@@ -527,9 +527,9 @@
     "slug": "db-360-soft-wash",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "72.43%",
-    "uptimeWeek": "96.06%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "71.80%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.82%",
     "time": 490,
     "timeDay": 581,
@@ -537,7 +537,7 @@
     "timeMonth": 665,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2023-12-10": 397
+      "2023-12-10": 406
     }
   },
   {
@@ -547,9 +547,9 @@
     "slug": "down-east-granite",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "72.59%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "71.96%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.82%",
     "time": 763,
     "timeDay": 2450,
@@ -557,7 +557,7 @@
     "timeMonth": 1552,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2023-12-10": 395
+      "2023-12-10": 404
     }
   },
   {
@@ -567,9 +567,9 @@
     "slug": "dream-home-realty",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "72.64%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "72.01%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.82%",
     "time": 121,
     "timeDay": 142,
@@ -577,7 +577,7 @@
     "timeMonth": 108,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-12-10": 394
+      "2023-12-10": 403
     }
   },
   {
@@ -777,19 +777,19 @@
     "url": "https://www.thehandyworx.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehandyworx.com.ico",
     "slug": "handyworx",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "91.50%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "96.01%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "92.01%",
+    "uptimeMonth": "95.99%",
     "uptimeYear": "99.15%",
-    "time": 619,
-    "timeDay": 147,
-    "timeWeek": 187,
-    "timeMonth": 464,
-    "timeYear": 619,
+    "time": 618,
+    "timeDay": 169,
+    "timeWeek": 188,
+    "timeMonth": 463,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2023-12-10": 121,
+      "2023-12-10": 129,
       "2023-12-09": 37,
       "2023-12-08": 211,
       "2023-12-07": 105,
@@ -1183,8 +1183,8 @@
     "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.63%",
-    "uptimeMonth": "94.39%",
+    "uptimeWeek": "75.54%",
+    "uptimeMonth": "94.37%",
     "uptimeYear": "98.88%",
     "time": 590,
     "timeDay": 0,
@@ -1192,7 +1192,7 @@
     "timeMonth": 843,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-12-10": 568,
+      "2023-12-10": 577,
       "2023-12-09": 1440,
       "2023-12-08": 449
     }
@@ -1632,7 +1632,7 @@
     "uptime": "12.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.71%",
+    "uptimeMonth": "62.74%",
     "uptimeYear": "12.22%",
     "time": 222,
     "timeDay": 191,
@@ -1975,11 +1975,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yorklynconstruction.com.ico",
     "slug": "yorklyn-construction",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 6092,
     "timeDay": 4079,
     "timeWeek": 6911,
