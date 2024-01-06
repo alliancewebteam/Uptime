@@ -1,7 +1,7 @@
 url: https://harrisburghabitat.org
-status: up
-code: 200
-responseTime: 3349
-lastUpdated: 2024-01-05T23:16:18.712Z
+status: down
+code: 429
+responseTime: 406
+lastUpdated: 2024-01-06T18:56:20.887Z
 startTime: 2023-07-10T17:02:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
