@@ -1,7 +1,7 @@
 url: https://reachformore.fit
-status: up
-code: 200
-responseTime: 5671
-lastUpdated: 2024-02-13T23:16:20.758Z
+status: down
+code: 500
+responseTime: 551
+lastUpdated: 2024-02-14T02:12:20.551Z
 startTime: 2023-07-10T17:03:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
