@@ -34,6 +34,8 @@ sites:
     url: https://bucklandsales.com
   - name: "Capital Hospitality Services"
     url: https://chshotelrenovations.com
+  - name: "Capital Hospitality Services"
+    url: https://chshotelrenovations.com
   - name: "Castle Hill Resort & Spa"
     url: https://www.castlehillresortvt.com
   - name: "Center For Independent Living"
@@ -46,6 +48,8 @@ sites:
     url: https://forms.ccsfyorkpa.org
   - name: "DB360 Soft Wash"
     url: https://db360wash.com
+  - name: "Debi Vreeland Insurance"
+    url: https://debivreelandinsurance.com/
   - name: "Down East Granite"
     url: https://downeastfab.com
   - name: "Dream Home Realty"
@@ -94,12 +98,12 @@ sites:
     url: https://jhowardcahill.com
   - name: "Juniper Environmental"
     url: https://juniperenviro.com
+  - name: "King's Gift Fund"
+    url:  https://kingsgiftfund.com/
   - name: "King's View Acres"
     url: https://kingsviewacres.com
   - name: "Machining America"
     url: https://machiningamerica.com
-  - name: "Maria Memmi"
-    url: https://mariamemmi.com
   - name: "Matterhorn Bar & Restaurant"
     url: https://matterhornbar.com
   - name: "Melissa Mueller"
@@ -110,8 +114,6 @@ sites:
     url: https://moyleslaw.com
   - name: "Mr Sandman Flooring"
     url: https://callmrsandman.com
-  - name: "Pigott Agency"
-    url: https://pigottagencyllc.com
   - name: "PrimeFyre LLC"
     url: https://primefyre.com
   - name: "Reach For More"
@@ -152,10 +154,10 @@ sites:
     url: https://v3fitnesspro.com
   - name: "Wert Book Binding"
     url: https://wertbookbinding.com
-  - name: "West Shire Decks"
-    url: https://westshiredecks.com
   - name: "West Shore Elks"
     url: https://westshoreelks.org
+  - name: "Wheelhouse Rentals"
+    url: https://wheelhouserentals.com/
   - name: "Wide Horizons Travel"
     url: https://widehorizonstravel.com
   - name: "Woodburn Law"
