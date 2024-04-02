@@ -34,10 +34,6 @@ sites:
     url: https://bucklandsales.com
   - name: "Capital Hospitality Services"
     url: https://chshotelrenovations.com
-  - name: "Capital Hospitality Services"
-    url: https://chshotelrenovations.com
-  - name: "Castle Hill Resort & Spa"
-    url: https://www.castlehillresortvt.com
   - name: "Center For Independent Living"
     url: https://cilopportunities.org
   - name: "Christ Presbyterian Church"
@@ -99,9 +95,11 @@ sites:
   - name: "Juniper Environmental"
     url: https://juniperenviro.com
   - name: "King's Gift Fund"
-    url:  https://kingsgiftfund.com/
+    url: https://kingsgiftfund.com/
   - name: "King's View Acres"
     url: https://kingsviewacres.com
+  - name: "The Law Office of Susan Smith"
+    url: https://sjsmithlaw.com
   - name: "Machining America"
     url: https://machiningamerica.com
   - name: "Matterhorn Bar & Restaurant"
