@@ -34,6 +34,8 @@ sites:
     url: https://bucklandsales.com
   - name: "Capital Hospitality Services"
     url: https://chshotelrenovations.com
+  - name: "Carlisle Theatre"
+    url: https://carlisletheatre.com
   - name: "Center For Independent Living"
     url: https://cilopportunities.org
   - name: "Christ Presbyterian Church"
@@ -42,10 +44,12 @@ sites:
     url: https://ccsfyorkpa.org
   - name: "Christopher Columbus Scholarship Foundation - Scholarship Application"
     url: https://forms.ccsfyorkpa.org
+  - name: "Control Systems 21"
+    url: https://controlsystems21.com
   - name: "DB360 Soft Wash"
     url: https://db360wash.com
   - name: "Debi Vreeland Insurance"
-    url: https://debivreelandinsurance.com/
+    url: https://debivreelandinsurance.com
   - name: "Down East Granite"
     url: https://downeastfab.com
   - name: "Dream Home Realty"
@@ -108,10 +112,10 @@ sites:
     url: https://smartloanadvisor.com
   - name: "Miller & Son Electro-Plating"
     url: https://millerplatingnj.com
-  - name: "Moyles Law Firm"
-    url: https://moyleslaw.com
   - name: "Mr Sandman Flooring"
     url: https://callmrsandman.com
+  - name: "Novus Surgical"
+    url: https://novussurgical.com
   - name: "PrimeFyre LLC"
     url: https://primefyre.com
   - name: "Reach For More"
@@ -140,6 +144,8 @@ sites:
     url: https://szelesas.com
   - name: "The Meadows Pet Resort"
     url: https://themeadowspetresort.com
+  - name: "Tiger Trash"
+    url: https://tigertrash.com
   - name: "Tritan Pool and Spa"
     url: https://tritanpoolandspa.com
   - name: "Trix of the Trade Salon"
