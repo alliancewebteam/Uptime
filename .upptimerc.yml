@@ -4,7 +4,7 @@ repo: Uptime # The name of this repository
 sites:
   - name: "Alliance Computers"
     url: https://alliancecomp.com
-  - name: "Allegehnies Marketplace"
+  - name: "Alleghenies Marketplace"
     url: https://allegheniesmarketplace.com
   - name: "Access Bus & Van"
     url: https://accessbusandvan.net
@@ -18,6 +18,8 @@ sites:
     url: https://autismyork.org
   - name: "A Plus Mortgage Solutions"
     url: https://aplusmortgagesolutions.com
+  - name: "Aztec Rental Services"
+    url: https://aztecrentalservices.com
   - name: "Boone Graphics LLC"
     url: https://boonegraphicsllc.com
   - name: "Boyo Transportation"
@@ -35,7 +37,7 @@ sites:
   - name: "Capital Hospitality Services"
     url: https://chshotelrenovations.com
   - name: "Carlisle Theatre"
-    url: https://carlisletheatre.com
+    url: https://carlisletheatre.org
   - name: "Center For Independent Living"
     url: https://cilopportunities.org
   - name: "Christ Presbyterian Church"
@@ -86,6 +88,8 @@ sites:
     url: https://harrisburgbuilders.com
   - name: "HMR Auto Body"
     url: https://hmrautobody.com
+  - name: "Imor Financial"
+    url: https://imorfinancial.com
   - name: "Impact Harrisburg"
     url: https://impactharrisburg.org
   - name: "Indian Creek"
