@@ -48,6 +48,8 @@ sites:
     url: https://forms.ccsfyorkpa.org
   - name: "Control Systems 21"
     url: https://controlsystems21.com
+  - name: "County Seat Self Storage"
+    url: https://www.countyseatselfstorage.com
   - name: "DB360 Soft Wash"
     url: https://db360wash.com
   - name: "Debi Vreeland Insurance"
@@ -78,8 +80,6 @@ sites:
     url: https://harrisburgrestore.org
   - name: "Handyworx"
     url: https://www.thehandyworx.com
-  - name: "Henry's Lock & Key Service"
-    url: https://henryskeyandlockservice.com/
   - name: "Hershey Real Estate Group"
     url: https://hersheyreg.com
   - name: "Hoem Inc. / Precision Metal Fabricating"
