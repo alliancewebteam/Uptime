@@ -32,8 +32,6 @@ sites:
     url: https://buchergroup.com
   - name: "Buckland Sales"
     url: https://bucklandsales.com
-  - name: "Capital Hospitality Services"
-    url: https://chshotelrenovations.com
   - name: "Carlisle Theatre"
     url: https://carlisletheatre.org
   - name: "Center For Independent Living"
@@ -102,10 +100,6 @@ sites:
     url: https://jhowardcahill.com
   - name: "Juniper Environmental"
     url: https://juniperenviro.com
-  - name: "King's Gift Fund"
-    url: https://kingsgiftfund.com/
-  - name: "King's View Acres"
-    url: https://kingsviewacres.com
   - name: "Kirk's Appraisal"
     url: https://kirksappraisal.com
   - name: "The Law Office of Susan Smith"
@@ -154,8 +148,6 @@ sites:
     url: https://themeadowspetresort.com
   - name: "Tiger Trash"
     url: https://tigertrash.com
-  - name: "Tritan Pool and Spa"
-    url: https://tritanpoolandspa.com
   - name: "Trix of the Trade Salon"
     url: https://trixofthetradesalon.com
   - name: "Unlimited Construction Services"
